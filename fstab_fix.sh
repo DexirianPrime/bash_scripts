@@ -2,7 +2,7 @@
 
 ##########################################################################################
 # Script Name : fstab_fix                                                                #
-# Maintainer : Samuel Ross                                                               #
+# Maintainer : DexirianPrime                                                             #
 # Last Update : 2019-02-20 1                                                             #
 # Description :                                                                          #
 # This script scans the fstab file for duplicate entries                                 #
