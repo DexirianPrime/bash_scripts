@@ -1,5 +1,5 @@
 #!/bin/bash -li
-#Author : Samuel Ross
+#Author : DexirianPrime
 #Dont ask questions to which you dont want the answers
 #To understand recursion, see end of this script
 while true ; do
